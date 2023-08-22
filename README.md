@@ -1,4 +1,4 @@
-# AWS-Sagemaker_GroundTruth_Canary_ShadowTesting
+# AWS-Sagemaker
 # SageMaker Canary Deployment and Model Training
 
 This repository contains two Jupyter Notebook files demonstrating SageMaker deployment guardrails with canary traffic shifting and a machine learning model training example using XGBoost.
